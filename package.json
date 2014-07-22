@@ -1,0 +1,22 @@
+{
+  "name": "laplataformaweb",
+  "version": "0.0.1",
+  "description": "Website of education for the world!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:francomamani/laplataformaweb.git"
+  },
+  "keywords": [
+    "education"
+  ],
+  "author": "Franco Jesus Mamani Pozo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/francomamani/laplataformaweb/issues"
+  },
+  "homepage": "https://github.com/francomamani/laplataformaweb"
+}
